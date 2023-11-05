@@ -12,6 +12,7 @@
   <li>🌱 I’m currently learning  frontend developing</li>
    <li>I'm not a social butterfly🙆‍♀️,
   but this is how to reach me <a href="mailto:YourEmail@gmail.com">codegreeneye@gmail.com🙋‍♀️</li>
+  <li> Reachout to me for any project ideas and I would love to collaborate</li>
   </ul>
  
 
