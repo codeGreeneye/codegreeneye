@@ -3,8 +3,8 @@
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning  frontend developing
 -   I'm from Himachal,India
--   I'm not a social butterfly,but this is
-   how to reach me codegreeneye@gmail.com
+-   I'm not a social butterfly,
+-   but this is how to reach me codegreeneye@gmail.com
   <img align="left" width="400" height="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSIU0KvVmK7DoOn-AIdmiJ22e8Kq-SYi6y8HJvvCjCUlkXyQ_0XyP3VyxqF6_dUUnn5wc&usqp=CAU/100/100">
 
 
