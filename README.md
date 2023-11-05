@@ -7,7 +7,7 @@
 
  <img align="left" width="200" height="200" src="https://i.pinimg.com/736x/ab/19/fe/ab19fe111d25829aa053a39ad0703cb7.jpg">
 <ul>
- <li>I'm bsc 2nd year student</li> 
+ <li>👩‍🎓I'm bsc 2nd year student</li> 
  <li>👀 I love exploring and learning new technologies and building cool projects</li>
   <li>🌱 I’m currently learning  frontend developing</li>
    <li>I'm not a social butterfly🙆‍♀️,
