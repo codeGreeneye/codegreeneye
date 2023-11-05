@@ -1,5 +1,5 @@
  <h1>NAMSTEY</h1>
-- <h2>> I’m Himani </h2>
+- <h2> I’m Himani </h2>
 - from Himachal,India
   
 - 👀 I’m interested in learning new things
